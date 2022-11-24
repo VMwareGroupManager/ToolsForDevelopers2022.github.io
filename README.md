@@ -1,2 +1,2 @@
 # ToolsForDevelopers2022.github.io
-A Collection Of Simple Tools and Programs For Everyone
+A Collection Of Simple Tools and Programs
